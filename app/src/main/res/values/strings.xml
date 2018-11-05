@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationTest</string>
+    <string name="title_activity_receive_push">ReceivePushActivity</string>
+</resources>
